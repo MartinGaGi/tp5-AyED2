@@ -127,13 +127,11 @@ El programa construye el siguiente árbol:
 
 ---
 
-# 👨‍💻 Autor
+# 👨‍💻 Alumno
 
-**Martín Gagi**
+- Martin Gabriel Gimenez
 
-Trabajo práctico realizado para la materia:
-
-**Algoritmos y Estructura de Datos II**
+---
 
 ---
 
